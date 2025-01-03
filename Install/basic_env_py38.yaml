@@ -27,4 +27,5 @@ dependencies:
       - pybullet==3.2.6
       - open3d==0.18.0
       - openpyxl==3.1.5
+      - ikpy==3.4.2
       - third_party/ompl/ompl-1.6.0-cp38-cp38-manylinux_2_28_x86_64.whl
